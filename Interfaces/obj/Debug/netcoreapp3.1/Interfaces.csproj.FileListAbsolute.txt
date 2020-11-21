@@ -1,0 +1,12 @@
+C:\Users\Anders\source\repos\SavannahGame\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\Anders\source\repos\SavannahGame\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Anders\source\repos\SavannahGame\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\Anders\source\repos\SavannahGame\Interfaces\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Anders\source\repos\SavannahGame\Interfaces\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Anders\source\repos\SavannahGame\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+C:\Users\Anders\source\repos\SavannahGame\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Anders\source\repos\SavannahGame\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\Anders\source\repos\SavannahGame\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Anders\source\repos\SavannahGame\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CopyComplete
+C:\Users\Anders\source\repos\SavannahGame\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Anders\source\repos\SavannahGame\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb

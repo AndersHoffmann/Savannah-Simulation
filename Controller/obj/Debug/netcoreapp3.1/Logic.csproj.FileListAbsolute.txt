@@ -1,0 +1,14 @@
+C:\Users\Anders\source\repos\SavannahGame\Controller\bin\Debug\netcoreapp3.1\Logic.deps.json
+C:\Users\Anders\source\repos\SavannahGame\Controller\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\Anders\source\repos\SavannahGame\Controller\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\Anders\source\repos\SavannahGame\Controller\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Anders\source\repos\SavannahGame\Controller\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Anders\source\repos\SavannahGame\Controller\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\Anders\source\repos\SavannahGame\Controller\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Anders\source\repos\SavannahGame\Controller\obj\Debug\netcoreapp3.1\Logic.csprojAssemblyReference.cache
+C:\Users\Anders\source\repos\SavannahGame\Controller\obj\Debug\netcoreapp3.1\Logic.AssemblyInfoInputs.cache
+C:\Users\Anders\source\repos\SavannahGame\Controller\obj\Debug\netcoreapp3.1\Logic.AssemblyInfo.cs
+C:\Users\Anders\source\repos\SavannahGame\Controller\obj\Debug\netcoreapp3.1\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Anders\source\repos\SavannahGame\Controller\obj\Debug\netcoreapp3.1\Logic.csproj.CopyComplete
+C:\Users\Anders\source\repos\SavannahGame\Controller\obj\Debug\netcoreapp3.1\Logic.dll
+C:\Users\Anders\source\repos\SavannahGame\Controller\obj\Debug\netcoreapp3.1\Logic.pdb

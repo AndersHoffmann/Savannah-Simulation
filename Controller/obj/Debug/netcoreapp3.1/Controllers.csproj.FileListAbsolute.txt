@@ -1,0 +1,14 @@
+C:\Users\Anders\source\repos\SavannahGame\Controller\bin\Debug\netcoreapp3.1\Controllers.deps.json
+C:\Users\Anders\source\repos\SavannahGame\Controller\bin\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\Anders\source\repos\SavannahGame\Controller\bin\Debug\netcoreapp3.1\Controllers.pdb
+C:\Users\Anders\source\repos\SavannahGame\Controller\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Anders\source\repos\SavannahGame\Controller\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Anders\source\repos\SavannahGame\Controller\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\Anders\source\repos\SavannahGame\Controller\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Anders\source\repos\SavannahGame\Controller\obj\Debug\netcoreapp3.1\Controllers.csprojAssemblyReference.cache
+C:\Users\Anders\source\repos\SavannahGame\Controller\obj\Debug\netcoreapp3.1\Controllers.AssemblyInfoInputs.cache
+C:\Users\Anders\source\repos\SavannahGame\Controller\obj\Debug\netcoreapp3.1\Controllers.AssemblyInfo.cs
+C:\Users\Anders\source\repos\SavannahGame\Controller\obj\Debug\netcoreapp3.1\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\Anders\source\repos\SavannahGame\Controller\obj\Debug\netcoreapp3.1\Controllers.csproj.CopyComplete
+C:\Users\Anders\source\repos\SavannahGame\Controller\obj\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\Anders\source\repos\SavannahGame\Controller\obj\Debug\netcoreapp3.1\Controllers.pdb
