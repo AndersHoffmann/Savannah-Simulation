@@ -1,2 +1,2 @@
 # SavannahSimulatorConsole
- Simple program in which the population of lions and rabbits on a savannah is simulated. 
+ Simple program which simulates the population of lions and rabbits on a savannah, based on a list of predefined behaviour patterns. 
